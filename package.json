@@ -2,7 +2,7 @@
   "name": "my-firstapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/my-firstapp",
+  "homepage": "https://balaji-G06.github.io/my-firstapp",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
